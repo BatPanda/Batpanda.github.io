@@ -16,7 +16,7 @@
 lang: en-UK
 title: Luke Eyre's Development Blog
 email: name.lukeeyre@gmail.com
-description: //TODO <3
+description: Luke's Website :)
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://batpanda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
