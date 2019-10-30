@@ -1,5 +1,5 @@
 # Theme Skin
-skin: default # default, night, plum, sea, soft, steel
+skin: night # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
@@ -23,6 +23,7 @@ t:
   of: "of"
   min_read: "min read"
   present: "Present"
+  
 
 # Google Fonts
 google_fonts:
