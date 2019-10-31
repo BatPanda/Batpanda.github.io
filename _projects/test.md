@@ -1,7 +1,8 @@
 ---
 title: "Temp"
 image: 
-  thumbnail: Temp400x200.PNG
+  path: /assets/images/Temp400x200.PNG
+  thumbnail: /assets/images/Temp400x200.PNG
   caption: "Temp"
 ---
 ## TODO
