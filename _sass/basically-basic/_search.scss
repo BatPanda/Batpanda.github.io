@@ -62,7 +62,7 @@
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
-    background-color: dimgrey;
+    background-color: #3c3c3c;
     @include fluid-type($min-vw, $max-vw, 24px, 32px);
   }
 
